@@ -19,7 +19,7 @@ Alert: Sections commence Friday, February 4.
 ##### Tuesdays, 2:30 PM to 4:30 PM in RKZ 204
 Sign-up for a slot here: https://calendly.com/shikhar-singh/experiments
 
-<a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fcalendly.com%2Fshikhar-singh%2Fexperiments&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+<a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fcalendly.com%2Fshikhar-singh%2Fexperiments&chs=180x180&choe=UTF-8&chld=L|2' alt=''></a>
 
 E: shikhar.singh@yale.edu
 
