@@ -395,10 +395,10 @@ declaration</code></pre>
 ##    0.5    0.5</code></pre>
 <p><strong>Step 3:</strong> Conduct a random assignment, or obtain <span class="math inline">\(d_i\)</span>. You will notice that <span class="math inline">\(d_i\)</span> is typically different every time we conduct this assignment procedure.</p>
 <pre class="r"><code>conduct_ra(declaration) # This uses that information to generate an assignment vector. This vector will be different every time we run the command. See below</code></pre>
-<pre><code>## [1] 1 0 1 0</code></pre>
+<pre><code>## [1] 0 1 0 1</code></pre>
 <pre class="r"><code>D &lt;- conduct_ra(declaration)
 D # Different from the first assignment vector</code></pre>
-<pre><code>## [1] 1 0 1 0</code></pre>
+<pre><code>## [1] 0 1 1 0</code></pre>
 <p><strong>Step 4:</strong> Getting the six possible assignment vectors.</p>
 <pre class="r"><code>D &lt;- obtain_permutation_matrix(declaration) 
 # Generates all possible assignment vectors for N=4, m=2
