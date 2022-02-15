@@ -1,7 +1,8 @@
 # PLSC 341: The Logic of Randomized Experiments in Political Science
-## Sections, Spring 2022
 
 This page contains the html output of code used in section. For any problems with the website please contact Shikhar Singh (shikhar.singh@yale.edu). 
+
+## Sections, Spring 2022
 
 ### Useful Dates and Times:
 
